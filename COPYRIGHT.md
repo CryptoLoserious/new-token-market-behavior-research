@@ -1,0 +1,2 @@
+# Copyright
+Copyright © 2026 CryptoLoserious. All rights reserved for original project materials. No general license to reproduce, modify, redistribute or commercially exploit those materials is granted. Applicable statutory exceptions and platform terms remain unaffected. Third-party materials remain subject to their respective rights and licenses. This notice does not claim exclusive rights over market facts, general mathematical methods or independently developed ideas.
